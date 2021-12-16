@@ -68,8 +68,8 @@ require (
 	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d
 	gopkg.in/fsnotify.v1 v1.4.7 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
-	k8s.io/api v0.22.4
-	k8s.io/apimachinery v0.22.4
+	k8s.io/api v0.23.1
+	k8s.io/apimachinery v0.23.1
 )
 
 replace github.com/onsi/gomega => github.com/onsi/gomega v1.16.0
